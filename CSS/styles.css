@@ -1,0 +1,37 @@
+@font-face { font-family: Airnt; src: url('../fonts/Airnt-qZey2.otf'); } 
+.junebug { font-family: Airnt; font-size: 4.2em; }
+
+#logo-home-button{
+    width: 4rem;
+    height: inherit;
+}
+
+#navbar-grey{
+    background-color: rgba(55, 55, 55, 0.586) !important;
+}
+
+.navbar-grey{
+    background-color: rgba(66, 66, 66, 0.586) !important;
+}
+
+#carousel-div{
+    background-color: rgba(117, 113, 113, 0.125);
+}
+
+#carousel-header-container{
+    position: absolute;
+    top: 15rem;
+    left: 45rem;
+    font-family: Airnt;
+}
+
+#new-items{
+    display: flex;
+    justify-items: center;
+    margin-top: 5rem;
+}
+
+#search-form{
+    position: absolute;
+    left: 34rem;
+}
